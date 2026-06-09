@@ -1,0 +1,21 @@
+{
+    "movies": 2000,
+    "detail_pages": 2000,
+    "category_pages": 12,
+    "html_pages": 2016,
+    "category_counts": {
+        "war-history": 167,
+        "comedy-romance": 167,
+        "animation-docs": 167,
+        "global-cinema": 166,
+        "domestic-hits": 167,
+        "action-suspense": 167,
+        "new-movies": 167,
+        "sci-fi-fantasy": 166,
+        "high-score": 166,
+        "drama-series": 167,
+        "variety-shows": 167,
+        "classic-library": 166
+    },
+    "m3u8_sources": 20
+}
